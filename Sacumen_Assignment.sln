@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sacumen_Assignment", "Sacumen_Assignment.pyproj", "{4E2B97F3-1851-4592-AD19-A9CF6C29DF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2B97F3-1851-4592-AD19-A9CF6C29DF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2B97F3-1851-4592-AD19-A9CF6C29DF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4FF0EB-EC90-44DD-B59A-722414C3CC52}
+	EndGlobalSection
+EndGlobal

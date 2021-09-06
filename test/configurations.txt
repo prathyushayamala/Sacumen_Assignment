@@ -1,0 +1,3 @@
+Under Fruits section Set Fruit1 = Apple
+Under Fruits section Set Fruit2 = Banana
+Under Vegetables section Set Vegetable1 = Onion
